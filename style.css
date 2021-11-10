@@ -1,0 +1,16 @@
+h1{
+    color: yellow;
+    background-color: gray;
+}
+
+h2{
+    color: purple;
+    background-color: khaki;
+    text-align: center;
+}
+h3{
+    color: lightblue;
+    background-color: lightsalmon;
+    text-align: right;
+    text-decoration: underline;
+}
